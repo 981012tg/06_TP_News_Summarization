@@ -1,0 +1,31 @@
+# 가상환경
+.venv/
+
+# 설정
+.chart*
+__pycache__
+.cache
+.vscode
+
+# 이전 코드
+archive
+
+#output 및 result
+output
+results
+
+#dataset
+processed_data
+review_data
+
+# 발표자료
+presentation_report
+
+tmp
+
+
+# 이미지처리바이블
+
+/08_이미지처리바이블/best_cifar10_cnn_model.h5
+
+
